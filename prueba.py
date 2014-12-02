@@ -1,9 +1,9 @@
+def chiste():
+    print ("habia un chile tan malo pero tan malo, que se bajaba de la mata para pegarle a los chilitos... ZAAAAAAAAA!!!")
 
-def tireemeUnChiste():
-	print("Habia una vez un pancito haciendo ejercicio, y le pregunta otro que porque estaba haciendo ejercicio y le dice es que quiero ser un pan cuadrado xD")
-
-Yo 
+Yoooooooooooooooooooooooooooo 
 soy
 el
-aventureeeeeerrooooooooo!!!!
+aventureeeeeerrooooooooo!
 
+Esta es una nueva linea que estamos agregando como prueba.
