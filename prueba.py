@@ -5,4 +5,4 @@ def chiste():
 Yo 
 soy
 el
-aventureeeeeerrooooooooo!!!!
+aventureeeeeerrooooooooo!
