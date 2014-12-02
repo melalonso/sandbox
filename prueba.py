@@ -1,3 +1,36 @@
-def holamundo():
-	print('hola mundo!')
-
+#Donde compra los pantalones GOku?
+#.
+#.
+#.
+#.
+#.
+#.
+#.
+#.
+#.
+#.
+#.
+#.
+#.
+#.
+#.
+#.
+#.
+#.
+#.
+#.
+#.
+#.
+#.
+#.
+#.
+#.
+#.
+#.
+#.
+#.
+#.
+#.
+#.
+#.
+#En saya jeans.
