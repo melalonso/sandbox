@@ -3,6 +3,7 @@ def chiste():
 
 hola que hace?
 
+ola k ase?
 Yoooooooooooooooooooooooooooo 
 soy
 el
